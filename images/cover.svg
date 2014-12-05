@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<image xlink:href="cover.jpg" width="1400" height="2100" x="0" y="0" />
-	<path d="M 50,1620 1350,1620 1350,2050 50,2050 Z" style="fill-opacity:0.75;color:#000" />
-	<text style="font-size:93.56725311px;letter-spacing:5;fill:#fff;font-family:League Spartan" x="321.79752" y="1773.5964">A NOVEL WITH</text>
-	<text style="font-size:93.56725311px;letter-spacing:5;fill:#fff;font-family:League Spartan" x="284.18054" y="1873.5964">A LONGER TITLE</text>
-	<text style="font-size:46.7840004px;letter-spacing:5;fill:#fff;font-family:League Spartan" x="532.47363" y="1974.2982">AN AUTHOR</text>
+	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
+	<path d="M 50,1620 1350,1620 1350,2050 50,2050 Z" style="color:#000;fill-opacity:0.75"/>
+	<text style="fill:#fff;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="1825">SHORT STORIES</text>
+	<text style="fill:#fff;font-family:League Spartan;font-size:46.7840004px;letter-spacing:5px" text-anchor="middle" x="700" y="1925">STANLEY G. WEINBAUM</text>
 </svg>
-
