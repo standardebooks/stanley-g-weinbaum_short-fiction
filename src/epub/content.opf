@@ -42,11 +42,11 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/stanley-g-weinbaum_short-stories</meta>
 		<dc:creator id="author">Stanley G. Weinbaum</dc:creator>
 		<meta property="file-as" refines="#author">Weinbaum, Stanley G. </meta>
-		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Stanley_G._Weinbaum</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Stanley_G._Weinbaum</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Mikalojus Konstantinas Čiurlionis</dc:contributor>
 		<meta property="file-as" refines="#artist">Čiurlionis, Mikalojus Konstantinas</meta>
-		<meta property="se:url.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Mikalojus_Konstantinas_%C4%8Ciurlionis</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Mikalojus_Konstantinas_%C4%8Ciurlionis</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Weeks, Greg</meta>
