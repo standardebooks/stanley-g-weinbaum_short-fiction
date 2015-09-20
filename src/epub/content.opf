@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/stanley-g-weinbaum/short-works</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/stanley-g-weinbaum/short-fiction</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2015-06-17T00:18:01Z</meta>
+		<meta property="dcterms:modified">2015-09-20T03:29:42Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -16,8 +16,8 @@
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="epub/text/unlicense.xhtml" rel="cc:license"/>
 		<link href="epub/onix.xml" rel="onix-record"/>
-		<dc:title id="title">Short Works</dc:title>
-		<meta property="file-as" refines="#title">Short Works</meta>
+		<dc:title id="title">Short Fiction</dc:title>
+		<meta property="file-as" refines="#title">Short Fiction</meta>
 		<dc:subject id="subject-1">Science Fiction</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://standardebooks.org</meta>
 		<meta property="se:subject">Science Fiction</meta>
@@ -39,7 +39,7 @@
 		<meta property="se:word-count">48351</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Martian_Odyssey</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Valley_of_Dreams</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/stanley-g-weinbaum_short-works</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/stanley-g-weinbaum_short-fiction</meta>
 		<dc:creator id="author">Stanley G. Weinbaum</dc:creator>
 		<meta property="file-as" refines="#author">Weinbaum, Stanley G. </meta>
 		<meta property="se:name.person.full-name" refines="#author">Stanley Grauman Weinbaum</meta>
