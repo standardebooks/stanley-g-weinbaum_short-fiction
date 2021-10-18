@@ -35,7 +35,7 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">Twelve classic science fiction short stories.</dc:description>
+		<dc:description id="description">Six classic science fiction short stories by Stanley Weinbaum.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/stanley-g-weinbaum"&gt;Stanley Weinbaum&lt;/a&gt; was an influential science fiction writer who died at an early age. His short story “A Martian Odyssey,” included in this collection, was praised by science fiction luminaries like Isaac Asimov, who said the story “had the effect on the field of an exploding grenade. With this single story, Weinbaum was instantly recognized as the world’s best living science fiction writer, and at once almost every writer in the field tried to imitate him.”&lt;/p&gt;
 			&lt;p&gt;This collection includes all of Weinbaum’s short stories that are believed to be in the public domain.&lt;/p&gt;
@@ -47,6 +47,11 @@
 		<dc:source>https://www.gutenberg.org/ebooks/22897</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/22301</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/23731</dc:source>
+		<dc:source>https://archive.org/details/Fantastic_Story_Magazine_v08n02_1955-Spring_Gorgon776</dc:source>
+		<dc:source>https://archive.org/details/Science_Fiction_Monthly_v02n07_1975-07_Gorgon776</dc:source>
+		<dc:source>https://archive.org/details/StartlingStoriesV10n031944SpringufikusDPP</dc:source>
+		<dc:source>https://archive.org/details/Startling_Stories_v09n03_1943-06_unz.org</dc:source>
+		<dc:source>https://archive.org/details/martianodysseyot00wein</dc:source>
 		<meta property="se:word-count">48348</meta>
 		<meta property="se:reading-ease.flesch">74.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/A_Martian_Odyssey</meta>
